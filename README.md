@@ -1,4 +1,4 @@
-#📘 Student Management System – Assignment 3
+# 📘 Student Management System – Assignment 3
 A Java console-based application that demonstrates exception handling, multithreading, wrapper classes, and input validation. This implementation follows the exact requirements from the assignment document.
 
 ## 🚀 Features

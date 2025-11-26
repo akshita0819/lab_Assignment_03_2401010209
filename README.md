@@ -1,4 +1,4 @@
-# 📘 Student Management System – Assignment 3
+#  📘 Student Management System – Assignment 3
 A Java console-based application that demonstrates exception handling, multithreading, wrapper classes, and input validation. This implementation follows the exact requirements from the assignment document.
 
 ## 🚀 Features
@@ -26,7 +26,7 @@ Store using HashMap
 Display student details
 Validate input
 Auto-calculate grade
-##🧰 Technologies & Concepts Used
+## 🧰Technologies & Concepts Used
 Java OOP (classes, objects, abstraction)
 Custom exception
 Multithreading (Thread, Runnable)
@@ -34,7 +34,7 @@ Wrapper classes (Integer, Double)
 Exception handling
 HashMap
 Autoboxing & Unboxing
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 After completing this assignment, you will understand:
 
 How to handle runtime exceptions
